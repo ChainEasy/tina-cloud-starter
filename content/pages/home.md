@@ -1,7 +1,8 @@
 ---
 title: Starter Site
 blocks:
-  - headline: Welcome to the Starter Site
+  - tagline: Make a Site Today
+    headline: Welcome to the Starter Site
     text: >
       This project is set up to show you the basics of working with Starter.
       You're looking at the landing page, which pulls content from
@@ -20,7 +21,7 @@ blocks:
     image:
       src: /uploads/tina-illustration.webp
       alt: Tina
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
